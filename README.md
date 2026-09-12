@@ -298,7 +298,7 @@ kecepatan motor.
 
 <h2>⚙️ Prinsip Kerja Sistem</h2>
 
-<summary><b>1. 🎥 Input Gesture</b></summary>
+<b>🎥 Input Gesture</b>
 
 <br>
 
