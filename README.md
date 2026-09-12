@@ -200,7 +200,7 @@ real-time.
       <td>12</td>
       <td>Spacer</td>
       <td>2,5 cm</td>
-      <td>1</td>
+      <td>4</td>
     </tr>
   </tbody>
 </table>
