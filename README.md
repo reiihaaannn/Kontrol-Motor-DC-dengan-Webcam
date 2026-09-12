@@ -35,7 +35,7 @@ real-time.
 <ol>
   <li>
     Merancang sistem kendali kecepatan motor DC menggunakan Arduino Uno,
-    L298N, motor DC, AS5600, ACS712, dan voltage divider.
+    L298N, motor DC, AS5600, dan voltage divider.
   </li>
   <li>
     Menggunakan webcam dan MediaPipe Hands + OpenCV untuk mengubah jumlah
@@ -200,18 +200,6 @@ real-time.
       <td>12</td>
       <td>Spacer</td>
       <td>2,5 cm</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>ACS712</td>
-      <td>Sensor arus</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>Voltage Divider</td>
-      <td>R1 = 10 kΩ, R2 = 4,7 kΩ</td>
       <td>1</td>
     </tr>
   </tbody>
