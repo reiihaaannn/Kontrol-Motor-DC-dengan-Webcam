@@ -19,7 +19,7 @@ dan PC dilakukan menggunakan <b>USB Serial</b> dengan baud rate
 <p align="center">
   <b>
     🎥 Webcam → ✋ Deteksi Tangan → 🔢 Jumlah Jari → 🎯 Setpoint RPM
-    → 🟦 Arduino → 🧠 PID → ⚡ PWM → 🔌 L298N → ⚙️ Motor DC
+    → 🟦 Arduino → 🧠 PID → ⚡ PWM → L298N → ⚙️ Motor DC
   </b>
 </p>
 
