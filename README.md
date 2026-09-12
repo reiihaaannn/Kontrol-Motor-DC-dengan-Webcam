@@ -298,7 +298,6 @@ kecepatan motor.
 
 <h2>⚙️ Prinsip Kerja Sistem</h2>
 
-<details>
 <summary><b>1. 🎥 Input Gesture</b></summary>
 
 <br>
@@ -309,12 +308,10 @@ Webcam menangkap gambar tangan pengguna. Python menggunakan
 dan menentukan jumlah jari yang terdeteksi.
 </p>
 
-</details>
 
 <br>
 
-<details>
-<summary><b>2. 🎯 Penentuan Setpoint</b></summary>
+<b>🎯 Penentuan Setpoint</b>
 
 <br>
 
@@ -333,8 +330,6 @@ Jumlah jari dikonversi menjadi nilai setpoint RPM:
 <p>
 Setpoint kemudian dikirim dari PC ke Arduino melalui komunikasi serial.
 </p>
-
-</details>
 
 
 
